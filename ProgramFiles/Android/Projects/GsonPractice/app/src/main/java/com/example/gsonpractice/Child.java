@@ -16,7 +16,6 @@ public class Child {
     public String getTitle() {
         return title;
     }
-    //hello we are there to helo you out
 
-    public String setTEst(){return title;}
+    public int getNum(){return 1;}
 }
